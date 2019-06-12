@@ -1,5 +1,4 @@
-# Work Hard, Make history
-
+# Adslist Rails Application
 
 Ruby on rails Advertizing application built from scratch with multiple categories that simulates to be a clone for craylist. This app is for  all pourposes adverstizin services as sales, activities, events, news and more. 
 
