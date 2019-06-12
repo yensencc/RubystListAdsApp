@@ -1,7 +1,9 @@
-# README
+# Work Hard, Make history
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+
+Ruby on rails Advertizing application built from scratch with multiple categories that simulates to be a clone for craylist. This app is for  all pourposes adverstizin services as sales, activities, events, news and more. 
+
+Ruby on rails, html, css, Jquery, Javascript. 
 
 Things you may want to cover:
 
